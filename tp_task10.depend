@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1463945765 source:/home/tlakatlekutl/workspace/tp_task10/main.cpp
+	<iostream>
+	"tpComplex.h"
+	<vector>
+	<string>
+	"debug.h"
+
+1463945755 /home/tlakatlekutl/workspace/tp_task10/include/tpComplex.h
+	<ostream>
+	<type_traits>
+	<../debug.h>
+
+1463926831 source:/home/tlakatlekutl/workspace/tp_task10/trComplex.cpp
+	"tpComplex.h"
+
+1463944380 /home/tlakatlekutl/workspace/tp_task10/include/reporter.h
+	<fstream>
+	<ctime>
+	<string>
+	<iostream>
+
+1463945753 /home/tlakatlekutl/workspace/tp_task10/debug.h
+	"Logger.h"
+
+1463945699 /home/tlakatlekutl/workspace/tp_task10/include/Logger.h
+	<fstream>
+	<ctime>
+	<string>
+	<iostream>
+
+1463945130 source:/home/tlakatlekutl/workspace/tp_task10/src/Logger.cpp
+	"Logger.h"
+

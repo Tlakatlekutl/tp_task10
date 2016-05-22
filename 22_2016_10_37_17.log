@@ -1,0 +1,8 @@
+include/tpComplex.h sum 54 temp=10-4.8i
+
+include/tpComplex.h sub 64 temp=0+0i
+
+include/tpComplex.h mul 73 temp=19.24-24i
+
+/home/tlakatlekutl/workspace/tp_task10/main.cpp main 19 temp=5-2.4i
+
